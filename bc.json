@@ -1,4 +1,4 @@
-// 配置地址 --> clan://localhost/TVBox/bc.json
+// 配置地址 -->http://192.168.0.105:8181/AliYunPan/%E6%96%87%E4%BB%B6/%E7%8C%AB/pz/TVBox/bc.jar
 
 {
 "spider":"http://192.168.0.105:8181/AliYunPan/%E6%96%87%E4%BB%B6/%E7%8C%AB/pz/TVBox/bc.jar",

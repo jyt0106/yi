@@ -1,7 +1,7 @@
 // 配置地址 --> clan://localhost/TVBox/bc.json
 
 {
-"spider":"clan://localhost/AliYunPan/文件/猫/pz/TVBox/bc.jar",
+"spider":"http://192.168.0.105:8181/AliYunPan/%E6%96%87%E4%BB%B6/%E7%8C%AB/pz/TVBox/bc.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qeXQwMTA2LmdpdGh1Yi5pby9UL2xpdmUoMSkudHh0"]}]}],
 
 
